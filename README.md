@@ -1,1 +1,1 @@
-# practice_github
+This is a repo to practice github
